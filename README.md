@@ -11,8 +11,8 @@ Data Modeling: Developing fact and dimension tables optimized for analytical que
 Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
 
 Data Architecture diagram :
-
+The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
 <img src="/docs/Data_arch_img.png" alt="Alt text for the image" width="100" height="100">
 
 References:
-This project has been done referring to @DataWithBaraa youtube channel.
+This project was done referring to @DataWithBaraa youtube channel.
