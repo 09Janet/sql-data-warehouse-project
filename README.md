@@ -15,5 +15,13 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 
 <img src="/docs/Data_arch_img.png" alt="Alt text for the image" width="100" height="100">
 
+
+
+
+About me:
+I'm Janet Joby an Engineer who enjoys working with Data.
+
+
+
 References:
 This project was done referring to @DataWithBaraa youtube channel.
